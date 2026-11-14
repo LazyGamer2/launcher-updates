@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "publishedAt": "2026-11-14T00:39:02.981Z",
+  "branding": {
+    "name": "KLAZY",
+    "accent": "#000000",
+    "accent2": "#a30000",
+    "announcement": ""
+  },
+  "games": [
+    {
+      "id": "new-game",
+      "name": "New game",
+      "type": "Game",
+      "version": "1.0",
+      "tier": "free",
+      "launch": "",
+      "description": "",
+      "steps": [],
+      "gifts": [
+        {
+          "name": "",
+          "coins": 1,
+          "action": "",
+          "description": ""
+        }
+      ],
+      "hidden": true,
+      "featured": false
+    },
+    {
+      "id": "new-game-2",
+      "name": "New game",
+      "type": "Stream mod",
+      "version": "1.0",
+      "tier": "free",
+      "launch": "",
+      "description": "",
+      "steps": [],
+      "gifts": [],
+      "hidden": true
+    }
+  ]
+}
