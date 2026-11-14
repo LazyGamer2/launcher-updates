@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "publishedAt": "2026-11-14T01:20:06.072Z",
+  "version": 6,
+  "publishedAt": "2026-11-14T01:43:40.488Z",
   "branding": {
     "name": "KLAZY.",
     "accent": "#000000",
@@ -93,9 +93,9 @@
         }
       ],
       "hidden": false,
-      "file": "assets/500579494862a947.html",
-      "fileName": "The Climb - 100 Levels to the Summit.html",
-      "fileSize": 2275307,
+      "file": "assets/ecfa114069a11757.html",
+      "fileName": "I Have to Climb the Mountain.html",
+      "fileSize": 2288610,
       "featured": true
     }
   ]
