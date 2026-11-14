@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "publishedAt": "2026-11-14T01:15:28.340Z",
+  "version": 4,
+  "publishedAt": "2026-11-14T01:18:49.183Z",
   "branding": {
     "name": "KLAZY.",
     "accent": "#000000",
@@ -48,8 +48,10 @@
       "version": "1.0",
       "tier": "free",
       "launch": "",
-      "description": "",
-      "steps": [],
+      "description": "game",
+      "steps": [
+        "steo"
+      ],
       "gifts": [],
       "actions": [
         {
