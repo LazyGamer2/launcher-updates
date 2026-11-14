@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "publishedAt": "2026-11-14T00:40:49.235Z",
+  "version": 3,
+  "publishedAt": "2026-11-14T01:15:28.340Z",
   "branding": {
     "name": "KLAZY.",
     "accent": "#000000",
@@ -39,6 +39,60 @@
       "steps": [],
       "gifts": [],
       "hidden": true
+    },
+    {
+      "id": "new-game-3",
+      "name": "New game",
+      "type": "Game",
+      "kind": "web",
+      "version": "1.0",
+      "tier": "free",
+      "launch": "",
+      "description": "",
+      "steps": [],
+      "gifts": [],
+      "actions": [
+        {
+          "id": "up1",
+          "label": "Level Up 1"
+        },
+        {
+          "id": "up5",
+          "label": "Level Up 10"
+        },
+        {
+          "id": "dn1",
+          "label": "Level Down 1"
+        },
+        {
+          "id": "dn5",
+          "label": "Level Down 10"
+        },
+        {
+          "id": "yeti",
+          "label": "Yeti Chase (30s)"
+        },
+        {
+          "id": "pebble",
+          "label": "Pebble / Push"
+        },
+        {
+          "id": "freeze",
+          "label": "Freeze / Jail (5s)"
+        },
+        {
+          "id": "reset",
+          "label": "Reset Countdown (60s)"
+        },
+        {
+          "id": "save",
+          "label": "Save (stops reset, else shield)"
+        }
+      ],
+      "hidden": false,
+      "file": "assets/500579494862a947.html",
+      "fileName": "The Climb - 100 Levels to the Summit.html",
+      "fileSize": 2275307
     }
   ]
 }
