@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "publishedAt": "2026-11-14T01:18:49.183Z",
+  "version": 5,
+  "publishedAt": "2026-11-14T01:20:06.072Z",
   "branding": {
     "name": "KLAZY.",
     "accent": "#000000",
@@ -38,7 +38,8 @@
       "description": "",
       "steps": [],
       "gifts": [],
-      "hidden": true
+      "hidden": true,
+      "featured": false
     },
     {
       "id": "new-game-3",
@@ -94,7 +95,8 @@
       "hidden": false,
       "file": "assets/500579494862a947.html",
       "fileName": "The Climb - 100 Levels to the Summit.html",
-      "fileSize": 2275307
+      "fileSize": 2275307,
+      "featured": true
     }
   ]
 }
