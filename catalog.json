@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "publishedAt": "2026-11-14T23:20:23.361Z",
+  "version": 13,
+  "publishedAt": "2026-11-15T07:31:41.250Z",
   "branding": {
     "name": "KLAZY.",
     "accent": "#000000",
@@ -13,7 +13,7 @@
       "name": "New game",
       "type": "Game",
       "kind": "web",
-      "version": "1.1",
+      "version": "1.2",
       "tier": "free",
       "launch": "",
       "description": "game",
@@ -60,9 +60,9 @@
         }
       ],
       "hidden": false,
-      "file": "assets/2ba8f82d1a826d8a.html",
-      "fileName": "I_Have_to_Climb_the_Mountain (1).html",
-      "fileSize": 2306914,
+      "file": "assets/d484ff1d62557628.html",
+      "fileName": "I_Have_to_Climb_the_Mountain (2).html",
+      "fileSize": 2341427,
       "featured": true
     },
     {
